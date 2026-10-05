@@ -1,5 +1,8 @@
 {
-    "name": "Integration blueprint",
-    "homeassistant": "2026.6.4",
-    "hacs": "2.0.5"
+    "name": "QuestDB State Storage (QSS)",
+    "homeassistant": "2025.1.0",
+    "hide_default_branch": true,
+    "render_readme": true,
+    "zip_release": true,
+    "filename": "qss.zip"
 }
